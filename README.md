@@ -1,6 +1,6 @@
 
 
-This is a .md file where u can directly see pictures and links without a real code.
+This is a .md file where u can see directly pictures and links without a real code.
 
 You can visit my teamtreehouse profile [here](https://github.com/PetyaKatsarova).
 
